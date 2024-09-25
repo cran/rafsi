@@ -1,0 +1,13 @@
+59f3ff512208715df10d6ea4ec0e1634 *DESCRIPTION
+2be1f5e8051ee1250908fdc0410e273c *NAMESPACE
+2862a83fded3be00fdb3edce930fc13e *R/rafsi.R
+9278a092c5cbffa4c1fb6d7a1e4ec67c *README.md
+79bd2b8a35e747e92b76a7320e0208d7 *build/vignette.rds
+500ff53611ac6cf0497db45ae94091cb *inst/WORDLIST
+861efd33d9fb06d9c4593ba18689bbd7 *inst/doc/rafsi.R
+3005691e7e9bbeb26b9d82479605ff26 *inst/doc/rafsi.Rmd
+076c9425420a68e03a5952a0ac4f2693 *inst/doc/rafsi.html
+8d784146d9c5bfb9c7dc29c4b9e85d3d *man/rafsi_method.Rd
+cb1a32f0f02526a941e32d8ab5b58a44 *tests/testthat.R
+1aab774a946fcaf9719540f69f3b5558 *tests/testthat/test-rafsi.R
+3005691e7e9bbeb26b9d82479605ff26 *vignettes/rafsi.Rmd
